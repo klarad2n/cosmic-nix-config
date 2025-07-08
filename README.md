@@ -1,1 +1,1 @@
-# cosmic-nix-config
+Barebones cosmic desktop nix configuration file
