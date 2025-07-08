@@ -58,7 +58,9 @@
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [];
   };
-
+  # 
+  #Yes steal below this line
+  #
   # Enable CUPS to print documents.
   services.printing.enable = true;
 
